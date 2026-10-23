@@ -1,9 +1,6 @@
 <p align="center">
-  <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-          <img src="./assets/hero-light.svg" alt="Jeonguk Kim — GitHub profile" width="100%" />
-        </picture>
+  <img src="./assets/hero-light.svg#gh-light-mode-only" alt="Jeonguk Kim — GitHub profile" width="100%" />
+        <img src="./assets/hero.svg#gh-dark-mode-only" alt="Jeonguk Kim — GitHub profile" width="100%" />
 </p>
 
 <p align="center">
@@ -20,11 +17,8 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/babo-jeonguk/DoneFolio">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/donefolio.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/donefolio-light.svg" />
-          <img src="./assets/donefolio-light.svg" alt="Illustration of DoneFolio's work-record-to-resume flow" width="100%" />
-        </picture>
+        <img src="./assets/donefolio-light.svg#gh-light-mode-only" alt="Illustration of DoneFolio's work-record-to-resume flow" width="100%" />
+        <img src="./assets/donefolio.svg#gh-dark-mode-only" alt="Illustration of DoneFolio's work-record-to-resume flow" width="100%" />
       </a>
       <h3><a href="https://github.com/babo-jeonguk/DoneFolio">DoneFolio ↗</a></h3>
       <p>An evidence-first career workspace for organizing work records and turning them into tailored resumes, with optional AI-assisted writing.</p>
@@ -32,11 +26,8 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/babo-jeonguk/BaboJUBot">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/babojubot.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/babojubot-light.svg" />
-          <img src="./assets/babojubot-light.svg" alt="Illustration of research agents coordinated by a lead" width="100%" />
-        </picture>
+        <img src="./assets/babojubot-light.svg#gh-light-mode-only" alt="Illustration of research agents coordinated by a lead" width="100%" />
+        <img src="./assets/babojubot.svg#gh-dark-mode-only" alt="Illustration of research agents coordinated by a lead" width="100%" />
       </a>
       <h3><a href="https://github.com/babo-jeonguk/BaboJUBot">BaboJUBot ↗</a></h3>
       <p>A human-supervised research workspace for planning, coordinating, and reviewing work across teams of AI agents.</p>
@@ -53,11 +44,8 @@ Small tools that improve day-to-day workflows in <a href="https://paseo.sh">Pase
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/babo-jeonguk/paseo-usage-auto-resume">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/paseo-usage-auto-resume.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/paseo-usage-auto-resume-light.svg" />
-          <img src="./assets/paseo-usage-auto-resume-light.svg" alt="Usage Auto Resume — automatic session resumption illustration" width="100%" />
-        </picture>
+        <img src="./assets/paseo-usage-auto-resume-light.svg#gh-light-mode-only" alt="Usage Auto Resume — automatic session resumption illustration" width="100%" />
+        <img src="./assets/paseo-usage-auto-resume.svg#gh-dark-mode-only" alt="Usage Auto Resume — automatic session resumption illustration" width="100%" />
       </a>
       <h3><a href="https://github.com/babo-jeonguk/paseo-usage-auto-resume">Usage Auto Resume ↗</a></h3>
       <p>Automatically continue eligible agent sessions after usage limits reset.</p>
@@ -65,11 +53,8 @@ Small tools that improve day-to-day workflows in <a href="https://paseo.sh">Pase
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/babo-jeonguk/paseo-free-your-agents">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/paseo-free-your-agents.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/paseo-free-your-agents-light.svg" />
-          <img src="./assets/paseo-free-your-agents-light.svg" alt="Free Your Agents — process and memory management illustration" width="100%" />
-        </picture>
+        <img src="./assets/paseo-free-your-agents-light.svg#gh-light-mode-only" alt="Free Your Agents — process and memory management illustration" width="100%" />
+        <img src="./assets/paseo-free-your-agents.svg#gh-dark-mode-only" alt="Free Your Agents — process and memory management illustration" width="100%" />
       </a>
       <h3><a href="https://github.com/babo-jeonguk/paseo-free-your-agents">Free Your Agents ↗</a></h3>
       <p>Inspect memory use and stop idle agent processes without losing conversations.</p>
@@ -77,11 +62,8 @@ Small tools that improve day-to-day workflows in <a href="https://paseo.sh">Pase
     </td>
     <td width="34%" valign="top">
       <a href="https://github.com/babo-jeonguk/paseo-auto-compact-for-claude">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/paseo-auto-compact-for-claude.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/paseo-auto-compact-for-claude-light.svg" />
-          <img src="./assets/paseo-auto-compact-for-claude-light.svg" alt="Auto Compact for Claude — conversation compaction illustration" width="100%" />
-        </picture>
+        <img src="./assets/paseo-auto-compact-for-claude-light.svg#gh-light-mode-only" alt="Auto Compact for Claude — conversation compaction illustration" width="100%" />
+        <img src="./assets/paseo-auto-compact-for-claude.svg#gh-dark-mode-only" alt="Auto Compact for Claude — conversation compaction illustration" width="100%" />
       </a>
       <h3><a href="https://github.com/babo-jeonguk/paseo-auto-compact-for-claude">Auto Compact for Claude ↗</a></h3>
       <p>Compact large, idle Claude conversations before their prompt cache expires.</p>
@@ -96,11 +78,8 @@ Small tools that improve day-to-day workflows in <a href="https://paseo.sh">Pase
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/babo-jeonguk/tfm2-draft-rl">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/tfm2.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/tfm2-light.svg" />
-          <img src="./assets/tfm2-light.svg" alt="Illustration of a Teamfight Manager 2 ban-pick research experiment" width="100%" />
-        </picture>
+        <img src="./assets/tfm2-light.svg#gh-light-mode-only" alt="Illustration of a Teamfight Manager 2 ban-pick research experiment" width="100%" />
+        <img src="./assets/tfm2.svg#gh-dark-mode-only" alt="Illustration of a Teamfight Manager 2 ban-pick research experiment" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
