@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="260" viewBox="0 0 570 260" role="img" aria-labelledby="title desc">
+<title id="title">Free Your Agents</title>
+<desc id="desc">Concept illustration of managing idle processes and freeing memory.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7FAFC"/><stop offset="1" stop-color="#EFF6F8"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#139887"/><stop offset="1" stop-color="#5085BE"/></linearGradient>
+  <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#639BA4" stroke-opacity=".08"/></pattern>
+</defs>
+<rect x=".5" y=".5" width="569" height="259" rx="16" fill="url(#bg)" stroke="#D1E2E8"/>
+<rect x="1" y="1" width="568" height="258" rx="15" fill="url(#grid)"/>
+<rect x="28" y="31" width="6" height="6" rx="2" fill="#168F82"/>
+<text x="46" y="39" fill="#526F7E" font-family="Consolas,Menlo,monospace" font-size="14" letter-spacing="1.3">PASEO PLUGINS</text>
+<path d="M28 58H542" stroke="#D7E4EA" opacity=".7"/>
+<g transform="translate(50 80)">
+ <rect width="468" height="151" rx="12" fill="#F5FBFD" stroke="#CADCE4"/>
+ <g font-family="Consolas,Menlo,monospace" font-size="14" fill="#47677F">
+  <text x="21" y="30">AGENT PROCESS</text><text x="335" y="30">MEMORY</text>
+  <text x="21" y="67">codex / idle</text><text x="335" y="67">1.2 GB</text>
+  <text x="21" y="101">claude / idle</text><text x="335" y="101">0.8 GB</text>
+  <text x="21" y="136">session kept</text><text x="335" y="136" fill="#178879">FREED</text>
+ </g>
+ <g stroke="#DCE5EB"><path d="M18 42H450M18 77H450M18 112H450"/></g>
+ <circle cx="448" cy="61" r="5" fill="#B48634"/><circle cx="448" cy="95" r="5" fill="#B48634"/><path d="M435 128l7 7 14-16" fill="none" stroke="#198F7D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
